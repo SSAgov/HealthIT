@@ -49,15 +49,6 @@ Overall, by using Health IT to share electronic health information with Social S
 
 ## How to Become a Health IT Partner
 
-#### Getting Started
-
-To begin the process, **reach out** to SSA at SSA.HIT.Information@ssa.gov to start a conversation. SSA will provide information on the Health IT program and ask questions about your organization to determine your **level of readiness** to interoperate, such as:
-
-- Do you have at least six months of data available in your electronic health record?
-- Would you restrict any information from SSA?
-- Are you a participant of an interoperability network?
-- What data sharing agreements do you have in place that need to be considered?
-
 #### Qualification Steps
 
 SSA will ask you to complete a **Clinical Content Checklist** (Checklist) to indicate the types and format of data that your organization can provide electronically. Clinical notes, lab results, procedures, information that typically may be marked as sensitive (e.g., substance abuse, HIV, and mental/behavioral health records), as well as several other types of content, are required to adjudicate a disability claim. It should be noted that a large portion of disability claims are mental/behavioral in nature, which requires SSA to request information that may be marked as sensitive or confidential in the electronic medical record.
@@ -89,7 +80,6 @@ Then, SSA performs **Connectivity Testing**. Many of the interoperability testin
 
 - SSA Disability Programs: https://www.ssa.gov/benefits/disability/
 - SSA Health IT Program: www.ssa.gov/hit
-- SSA Health IT Mailbox: SSA.HIT.Information@ssa.gov
 - Form SSA-827, Authorization to Disclose Information to the Social Security Administration: https://www.ssa.gov/disability/professionals/ssa827_informationpage.htm
 - Department of Health and Human Services (HHS) Office of Civil Rights (OCR) Guidance on Form SSA-827: https://www.ssa.gov/disability/professionals/documents/HHS-OCRfeedback.pdf
 - Federal Register for Health IT Transaction Rate: http://www.gpo.gov/fdsys/pkg/FR-2010-01-11/html/2010-225.htm
